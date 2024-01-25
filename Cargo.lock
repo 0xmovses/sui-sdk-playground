@@ -6613,11 +6613,14 @@ dependencies = [
  "anyhow",
  "futures",
  "reqwest",
+ "serde",
  "serde_json",
+ "shared-crypto",
  "sui-config",
  "sui-json-rpc-types",
  "sui-keys",
  "sui-sdk 1.18.0",
+ "tokio",
  "tracing",
 ]
 
